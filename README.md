@@ -1,10 +1,12 @@
-prolog  
-======  
+=============  
+Expert System  
+=============    
 
+Disciplina: Linguagens de Programacao  
+Professor:  Rodrigo Bonifacio  
 
-Sistema especialista que adivinha um personagem da série de TV Chaves.  
-Alunos: Breno Domingues Teixeira / 100026087  
-        Erica Borges Teixeira / 110077946  
-  
+Descricao:  
+   Sistema especialista que adivinha um personagem da serie de TV Chaves.  
 
-Disciplina: Linguagens de Programação  
+Alunos: Breno Domingues Teixeira - 10/0026087  
+        Erica Borges Teixeira    - 11/0077946  
